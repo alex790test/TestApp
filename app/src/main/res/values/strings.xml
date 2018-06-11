@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--dialog title-->
+
+    <string name="title_dialog_tags">Добавьте теги к картинке</string>
+    <string name="title_remove_photo">Удалить фото?</string>
+
+
+
+    <!--buttons-->
+
+    <string name="Ok">OK</string>
+    <string name="Cancel">Отмена</string>
+
+
+
+    <!--search-->
+
+    <string name="search_by_tags">Поиск по тегам</string>
+
+
+    <!--choocer-->
+
+    <string name="select_app">Выберите приложение</string>
+
+
+
+    <!--errors-->
+
+    <string name="error_get_photo_path">Данные о файле изображения не получены!</string>
+    <string name="invalid_file_extension">Файл не является изображением!</string>
+    <string name="teg_required">Необходимо ввести тег</string>
+    <string name="invalid_teg">Не валидный тег</string>
+
+
+
+    <string name="empty_photos">Нет изображений</string>
+
+
+</resources>
